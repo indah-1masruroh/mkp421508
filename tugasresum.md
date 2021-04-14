@@ -1,0 +1,7 @@
+<br> Nama : Indah Masruroh </br>
+<br> NIM : 1821500053 </br> 
+
+**Resum dari Dinamical System and its Application**
+
+*Dalam matematika, sistem dinamikal adalah sebuah sistem dimana sebuah fungsi mendeskripsikan ketergantungan waktu dari sebuah titik dalam sebuah ruang geometri. Contoh-contohnya meliputi model matematika yang mendeskripsikan gerak pendulum jam, aliran air dalam sebuah pipa, dan jumlah ikan setiap musim semi di danau.
+Sebuah bandul gravitasi sederhana adalah model matematika yang ideal dari sebuah pendulum nyata. Ini adalah beban (atau bob) di ujung kabel tanpa massa yang digantung dari poros, tanpa gesekan. Karena dalam model ini tidak ada kehilangan energi gesekan, ketika diberi perpindahan awal, ia akan berayun bolak-balik pada amplitudo konstan.Sisitem yang menggambarkan suatu yang dinamis yang berubah terhadap waktu tapi dinamik yang dipakai pada praktek yang dimodelkan,yang dianalisa tidak berfungsi dari itu saja tapi juga bisa fungsi dari ruang.Yang kita analisa seakan-akan itu fungsinya.Contoh,sudut simpang bandul dari sudut tegak lurus sebagai peta maka dengan prinsip newton.kita bisa mendapatkannya dengan F = gaya itu sama dengan massa dikalikan percepatan,percepatan itu adalah pos yang menarik bandulnya,akhirnya minus MG Sin Teta ini sama dengan percepatan,disaat yang sama maka kita bisa menghitung pakai rumus kalkulus 2.Berapa panjang Lintasan adalah I dengan I adalah panjang dari tali,sedangkan S adalah jarak yang ditempuh,maka percepatannya menjadi turunan ke-2.*
